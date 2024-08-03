@@ -1,24 +1,21 @@
-# desafio-firebaseii
+## Desafío Firebase II
 
-## Project setup
-```
-npm install
-```
+En este código se implementa una aplicación web que utilice el servicio de autenticación con Firebase
+1. Utiliza Firebase Authentication para integrar un sistema de usuarios.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+2. Utiliza guardianes de Vue Router para restringir el acceso a la vista Home.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+3. Incluye componente que permita crear nuevos usuarios (/signup).
 
-### Lints and fixes files
-```
-npm run lint
-```
+4. Incluye  componente que permita iniciar sesión (/).
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+5. Finalmente se desplega la aplicación con Firebase Hosting.
+
+
+Firebase hosting
+https://desafio-firebaseii-f2d65.web.app/
+
+Authentication Usuario ya registrado
+email:holamundo@gmail.com
+contraseña:123456
+
